@@ -6,7 +6,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento 
 
 ## Atualmente
 
-Na **Gekom**, contribuo para projetos da empresa e para o desenvolvimento de um aplicativo em fase de testes. Os repositórios desses projetos são privados.
+Na **Matizze**, contribuo para projetos da empresa e para o desenvolvimento de aplicativos em fases de testes. Os repositórios desses projetos são privados.
 
 ## Projetos públicos
 
