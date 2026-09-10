@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack · Java, React e TypeScript**
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento de software na Gekom. Trabalho com aplicações web, integrando interfaces, APIs e bancos de dados.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento de software na Matizze. Trabalho com aplicações web, integrando interfaces, APIs e bancos de dados.
 
 ## Atualmente
 
